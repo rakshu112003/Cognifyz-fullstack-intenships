@@ -57,7 +57,7 @@ Copy code
 
 http://localhost:3000
 📎 Repository Link
-🔗 https://github.com/rakshu112003/Cognifyz-fullstack-intenships https://github.com/rakshu112003/Cognifyz-fullstack-internships
+🔗 https://github.com/rakshu112003/Cognifyz-fullstack-intenships 
 👩‍💻 Author
 Rakshitha H N
 
