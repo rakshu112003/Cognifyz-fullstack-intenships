@@ -57,10 +57,10 @@ Copy code
 
 http://localhost:3000
 📎 Repository Link
-🔗 https://github.com/rakshu112003/Cognifyz-fullstack-internships
+🔗 https://github.com/rakshu112003/Cognifyz-fullstack-intenships https://github.com/rakshu112003/Cognifyz-fullstack-internships
 👩‍💻 Author
 Rakshitha H N
-GitHub: https://github.com/rakshu112003
+
 LinkedIn: https://www.linkedin.com/in/rakshitha-hn-a14124327/
 ⭐ Acknowledgement
 I would like to thank Cognifyz for providing this internship opportunity and helping me strengthen my full stack development skills through practical tasks.
